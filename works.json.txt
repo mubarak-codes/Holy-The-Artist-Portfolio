@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Ronaldo",
+    "category": "digital",
+    "image": "img/ronaldo.jpg",
+    "description": "I typedrew Ronaldo with numbers and symbols",
+    "link": "https://flutterwave.com/store/holytheartist/wv2jf84bxtdh1w"
+  },
+  {
+    "name": "Michael Jackson",
+    "category": "digital",
+    "image": "img/Michael_jackson.jpeg",
+    "description": "King of pop drawn with only text characters",
+    "link": "https://flutterwave.com/store/holytheartist/0eayatgllsxy"
+  },
+  {
+    "name": "Commission Work 1",
+    "category": "commission",
+    "image": "img/John_ola.jpg",
+    "description": "A client reached out to me and asked to draw this beautiful lady.",
+    "link": "https://www.instagram.com/holy_the_artist"
+  },
+  {
+    "name": "Messi Story",
+    "category": "traditional",
+    "image": "img/Messi_story.jpg",
+    "description": "This piece was written by hand, until Messi's face came together from pure text. Here's what makes it special, written into the background, is Messi's story, from a small kid in Rosario to one of the greatest of all time. It's not just art for your wall. It's his journey.",
+    "link": "https://flutterwave.com/store/holytheartist/yhb2m2uwgildp4"
+  },
+  {
+    "name": "Spiderman",
+    "category": "digital",
+    "image": "img/Spiderman.jpg",
+    "description": "I typedrew Spiderman using symbols with different colours.",
+    "link": "https://holytheartist.vercel.app/"
+  },
+  {
+    "name": "Commission Work 2",
+    "category": "commission",
+    "image": "img/first_commission.jpg",
+    "description": "",
+    "link": "https://www.instagram.com/holy_the_artist"
+  },
+  {
+    "name": "Break Out",
+    "category": "traditional",
+    "image": "img/Break_out.jpg",
+    "description": "This piece is about breaking free. Maybe it's a comfort zone you've been stuck in. Maybe it's a relationship that was holding you back. Maybe it's just an old version of yourself you don't need anymore. The egg represents my comfort zone, the sprout represents me choosing to break out of it. 'Break Out' doesn't tell you what to leave. It just shows you what it looks like when you do. This piece is made from text characters, written by hand, one by one, until the shape and the shadows came together.",
+    "link": "https://flutterwave.com/store/holytheartist/4eg79d5vgeubza"
+  },
+  {
+    "name": "Davido",
+    "category": "digital",
+    "image": "img/davido.jpg",
+    "description": "Drew Davido using text blocks",
+    "link": "https://holytheartist.vercel.app/"
+  },
+  {
+    "name": "Commission Work 3",
+    "category": "commission",
+    "image": "img/germany_guy.jpg",
+    "description": "",
+    "link": "https://holytheartist.vercel.app/"
+  }, 
+  {
+    "name": "Fireboy DML",
+    "category": "digital",
+    "image": "img/Fireboy.jpg",
+    "description": "",
+    "link": "https://holytheartist.vercel.app/"
+  }, 
+  {
+    "name": "Ayra Starr ",
+    "category": "digital",
+    "image": "img/ayra_starr.jpg",
+    "description": "",
+    "link": "https://holytheartist.vercel.app/"
+  }
+]

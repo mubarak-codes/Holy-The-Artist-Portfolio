@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Holy the Artist | Portfolio</title>
+  <meta name="description" content="Digital and traditional art by Holy the Artist. Browse my works and buy from my store.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="nav">
+    <a class="brand" href="#top">Holy the Artist</a>
+    <nav class="nav-links" aria-label="Main">
+      <a href="#about">About</a>
+      <a href="#works">Works</a>
+      <a href="#contact">Contact</a>
+      <a class="nav-store" href="https://holytheartist.vercel.app/" target="_blank" rel="noopener">Visit store</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section id="about" class="about">
+      <div class="about-photo">
+        <span aria-hidden="true">H</span>
+        <img src="img/holy1.jpg" alt="Photo of Holy the Artist" onerror="this.remove()">
+      </div>
+      <div class="about-text">
+        <h2>About me</h2>
+        <p>I'm Mubarak Owosheni Oluwatunmishe — Holy The Artist.
+My path into art wasn't planned. I came across a TikTok comment where someone had drawn a house using nothing but simple text characters and emoji. I'd never seen anything like it. I made research and found out I only few people are doing it.
+
+That was the beginning. I make my art using text characters — some pieces built on my phone, others hand-drawn on paper — turning plain characters into a portrait, character by character.
+
+
+</p>
+      </div>
+    </section>
+    <section class="hero">
+      <h1>Digital and traditional Ascii Art</h1>
+      <p>Every piece below was made using letters, numbers and symbols.</p>
+      <div class="hero-actions">
+        <a class="btn btn-solid" href="#works">See my works</a>
+        <a class="btn btn-line" href="https://holytheartist.vercel.app/" target="_blank" rel="noopener">Go to store</a>
+      </div>
+    </section>
+
+    <section id="works" class="works">
+      <div class="works-head">
+        <h2>My works</h2>
+        <div class="filters" role="group" aria-label="Filter works">
+          <button class="filter is-active" data-filter="all" aria-pressed="true">All</button>
+          <button class="filter" data-filter="digital" aria-pressed="false">Digital</button>
+          <button class="filter" data-filter="traditional" aria-pressed="false">Traditional</button>
+          <button class="filter" data-filter="commission" aria-pressed="false">Commission</button>
+         
+        </div>
+      </div>
+
+      <div id="grid" class="grid"></div>
+      <p id="empty" class="empty" hidden>No works in this group yet.</p>
+
+      <div class="more-wrap">
+        <button id="seeMore" class="btn btn-line" hidden>See more</button>
+      </div>
+    </section>
+  </main>
+
+  <footer id="contact" class="footer">
+    <div>
+      <h2>Let's work together</h2>
+      <p>Send me a message on Instagram or TikTok, or order straight from the store.</p>
+    </div>
+    <ul class="contact-list">
+      <li>Email: <a href="mailto:mubaraktheartist@gmail.com">mubaraktheartist@gmail.com</a></li>
+      <li>Phone: <a href="tel:+2349152446840">09152446840</a></li>
+    </ul>
+    <ul class="socials">
+      <li><a href="https://www.instagram.com/holy_the_artist" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="https://www.tiktok.com/@holy_d_artist" target="_blank" rel="noopener">TikTok</a></li>
+      <li><a href="https://holytheartist.vercel.app/" target="_blank" rel="noopener">Store</a></li>
+    </ul>
+    <p class="copy">&copy; <span id="year"></span> Holy the Artist</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
