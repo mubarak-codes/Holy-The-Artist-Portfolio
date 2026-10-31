@@ -1,5 +1,19 @@
 [
   {
+    "name": "Rihanna",
+    "category": "digital",
+    "image": "img/Rihanna.jpg",
+    "description": "I typedrew Rihanna wearing Gele using numbers and symbols",
+    "link": "https://flutterwave.com/store/holytheartist/wv2jf84bxtdh1w"
+  },
+    {
+    "name": "Commission Work",
+    "category": "commission",
+    "image": "img/Yellow_gele.jpg",
+    "description": "I typedrew a client wearing a Gele",
+    "link": "https://www.instagram.com/holy_the_artist"
+  },
+  {
     "name": "Ronaldo",
     "category": "digital",
     "image": "img/ronaldo.jpg",
